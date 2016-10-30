@@ -6,8 +6,9 @@
 .wall          { background: white;   }
 
 .actor  { position: absolute;  }
+.coin   { background: rgb(241, 229, 89); }
 .player { background: rgb(64, 64, 64); }
-
+.spike{ background:rgb(100,100,100);}
 .game {
   overflow: hidden;
   max-width: 600px;
